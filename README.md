@@ -168,8 +168,8 @@ A production-grade RAG system that unifies structured reports, visual evidence, 
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/MAOFILHO/AgenticAI-Projects/tree/main/Smart-Incident-Assistant-for-Urban-Safety2
-cd Smart-Incident-Assistant-for-Urban-Safety2
+git clone https://github.com/MAOFILHO/Azure-Smart-Incident-Urban-Safety-AI-v2.0.git
+cd Azure-Smart-Incident-Urban-Safety-AI-v2.0
 python3.12 -m venv .venv        # Requires Python 3.10+
 source .venv/bin/activate        # macOS/Linux
 make install                     # Installs all dependencies + upgrades pip
@@ -260,7 +260,7 @@ Try these in the web app:
 ## Project Structure
 
 ```
-Smart-Incident-Assistant-for-Urban-Safety2/
+Azure-Smart-Incident-Urban-Safety-AI-v2.0/
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
 ├── .env.template                      # Environment variable template
